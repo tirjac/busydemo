@@ -1,0 +1,13 @@
+<internal_defines>
+SERPENT_SIMD -> 20160903
+</internal_defines>
+
+<module_info>
+name -> "Serpent SIMD"
+brief -> "Serpent using SIMD instructions"
+</module_info>
+
+<requires>
+cpuid
+simd_4x32
+</requires>

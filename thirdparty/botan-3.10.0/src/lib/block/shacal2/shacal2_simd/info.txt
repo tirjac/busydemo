@@ -1,0 +1,13 @@
+<internal_defines>
+SHACAL2_SIMD -> 20170813
+</internal_defines>
+
+<module_info>
+name -> "SHACAL-2 SIMD"
+brief -> "SHACAL-2 using SIMD instructions"
+</module_info>
+
+<requires>
+cpuid
+simd_4x32
+</requires>
