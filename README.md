@@ -2,7 +2,7 @@
 
 This project demonstrates information sharing and `shared nothing` synchronization between two projects , one based on new the other a legacy TLS.
 
-![setup](docs/busydemo.png)
+![setup](docs/images/busydemo.png)
 
 It has two servers oldserver and newserver
 
