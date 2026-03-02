@@ -64,5 +64,4 @@ Each server has its **own local SQLite database** and **never writes directly** 
 
 - Show a minimal TLS server in two different stacks.
 - Demonstrate mTLS + Basic auth with a simple user file.
-- Keep HTTP parsing minimal but readable.
-- Separate IO (TLS), DB, and sync logic into small modules.
+- Demonstrate migration of both similar and dissimilar services.
